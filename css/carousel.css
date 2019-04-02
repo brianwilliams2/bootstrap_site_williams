@@ -3,10 +3,19 @@
 /* Padding below the footer and lighter body text */
 
 body {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+	background-color: black;
+	background-image: url("../images/scanlines.png");
+    background-position: left top;
+    background-size: auto;
+    background-repeat: repeat;
+    background-attachment: scroll;
+	
+	margin: auto;
+padding-top:60px;
+  padding-bottom: 0rem;
   color: #5a5a5a;
 	font-family: 'Ubuntu', sans-serif;
+	
 }
 
 .navbar {
@@ -28,13 +37,18 @@ top: calc(100% + 8px);
 	border-radius: 0;
 	}
 
+.btn{
+	background-color: #1d3049;
+}
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
 /* Carousel base class */
 .carousel {
-  margin-bottom: 4rem;
+  margin-bottom: 0rem;
+	
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
@@ -59,7 +73,13 @@ top: calc(100% + 8px);
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
+.marketing{
+	background-color:#FFFFFF;
+	padding-top: 50px;
+}
+
 .marketing .col-lg-4 {
+	
   margin-bottom: 1.5rem;
   text-align: center;
 }
@@ -76,7 +96,8 @@ top: calc(100% + 8px);
 ------------------------- */
 
 .featurette-divider {
-  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+  margin: 5rem 0;
+	margin-bottom: 0px;/* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
