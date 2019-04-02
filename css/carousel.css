@@ -6,20 +6,27 @@ body {
   padding-top: 3rem;
   padding-bottom: 3rem;
   color: #5a5a5a;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 .navbar {
   min-height: 60px;
 	padding: 0px 0px;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 .navbar-brand {
   padding: 0px 20px;
   height: 60px;
 line-height: 60px;
-	font-size: 30px;
-	
+	font-size: 30px;	
 }
+
+.dropdown-menu {
+padding: 5px 10px;
+top: calc(100% + 8px);
+	border-radius: 0;
+	}
 
 
 /* CUSTOMIZE THE CAROUSEL
