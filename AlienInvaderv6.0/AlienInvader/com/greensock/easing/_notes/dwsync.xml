@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name=".DS_Store" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214316017374" remote="131987366110000000" Dst="2" />
+<file name="Back.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214316246768" remote="131987366110000000" Dst="2" />
+<file name="BackIn.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214316476142" remote="131987366110000000" Dst="2" />
+<file name="BackInOut.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214316724963" remote="131987366120000000" Dst="2" />
+<file name="BackOut.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214316949465" remote="131987366120000000" Dst="2" />
+<file name="Bounce.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214317158891" remote="131987366130000000" Dst="2" />
+<file name="BounceIn.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214317373523" remote="131987366130000000" Dst="2" />
+<file name="BounceInOut.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214317582961" remote="131987366130000000" Dst="2" />
+<file name="BounceOut.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214317782422" remote="131987366140000000" Dst="2" />
+<file name="Circ.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214317971920" remote="131987366140000000" Dst="2" />
+<file name="CircIn.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214318211282" remote="131987366150000000" Dst="2" />
+<file name="CircInOut.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214318430688" remote="131987366150000000" Dst="2" />
+<file name="CircOut.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214318670056" remote="131987366160000000" Dst="2" />
+<file name="Cubic.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214318909430" remote="131987366190000000" Dst="2" />
+<file name="Ease.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214319218597" remote="131987366190000000" Dst="2" />
+<file name="EaseLookup.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214319483010" remote="131987366190000000" Dst="2" />
+<file name="Elastic.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214319732591" remote="131987366200000000" Dst="2" />
+<file name="ElasticIn.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214320001867" remote="131987366200000000" Dst="2" />
+<file name="ElasticInOut.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214320271151" remote="131987366210000000" Dst="2" />
+<file name="ElasticOut.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214320540416" remote="131987366210000000" Dst="2" />
+<file name="Expo.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214320789750" remote="131987366210000000" Dst="2" />
+<file name="ExpoIn.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214321049069" remote="131987366220000000" Dst="2" />
+<file name="ExpoInOut.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214321318345" remote="131987366220000000" Dst="2" />
+<file name="ExpoOut.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214321587630" remote="131987366230000000" Dst="2" />
+<file name="Linear.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214321856897" remote="131987366230000000" Dst="2" />
+<file name="Power0.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214322066332" remote="131987366230000000" Dst="2" />
+<file name="Power1.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214322275781" remote="131987366240000000" Dst="2" />
+<file name="Power2.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214322465279" remote="131987366240000000" Dst="2" />
+<file name="Power3.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214322694651" remote="131987366250000000" Dst="2" />
+<file name="Power4.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214322904144" remote="131987366250000000" Dst="2" />
+<file name="Quad.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214323118679" remote="131987366250000000" Dst="2" />
+<file name="Quart.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214323298206" remote="131987366260000000" Dst="2" />
+<file name="Quint.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214323504172" remote="131987366260000000" Dst="2" />
+<file name="RoughEase.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214323733563" remote="131987366270000000" Dst="2" />
+<file name="Sine.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214323921454" remote="131987366270000000" Dst="2" />
+<file name="SineIn.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214324150856" remote="131987366270000000" Dst="2" />
+<file name="SineInOut.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214324420135" remote="131987366280000000" Dst="2" />
+<file name="SineOut.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214324630759" remote="131987366280000000" Dst="2" />
+<file name="SlowMo.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214324840194" remote="131987366290000000" Dst="2" />
+<file name="SteppedEase.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214325059614" remote="131987366290000000" Dst="2" />
+<file name="Strong.as" server="54.209.173.168//var/www/html/bootstrap_site_williams/" local="131987214325269051" remote="131987366290000000" Dst="2" />
+</dwsync>
