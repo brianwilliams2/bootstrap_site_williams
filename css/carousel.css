@@ -3,12 +3,8 @@
 /* Padding below the footer and lighter body text */
 
 body {
-	background-color: black;
-	background-image: url("../images/scanlines.png");
-    background-position: left top;
-    background-size: auto;
-    background-repeat: repeat;
-    background-attachment: scroll;
+	background-color: #282828;
+
 	
 	margin: auto;
 padding-top:60px;
@@ -48,6 +44,9 @@ top: calc(100% + 8px);
 /* Carousel base class */
 .carousel {
   margin-bottom: 0rem;
+	width:640px;
+	margin:auto;
+
 	
 }
 /* Since positioning the image, we need to help out the caption */
@@ -61,10 +60,11 @@ top: calc(100% + 8px);
   height: 32rem;
 }
 .carousel-item > img {
-  position: absolute;
+
   top: 0;
-  left: 0;
-  min-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   height: 32rem;
 }
 
@@ -97,7 +97,7 @@ top: calc(100% + 8px);
 
 .featurette-divider {
   margin: 5rem 0;
-	margin-bottom: 0px;/* Space out the Bootstrap <hr> more */
+	margin-bottom: 60px;/* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
@@ -105,6 +105,7 @@ top: calc(100% + 8px);
   font-weight: 300;
   line-height: 1;
   letter-spacing: -.05rem;
+
 }
 
 
